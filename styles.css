@@ -1,0 +1,29 @@
+h1{
+    color:#285c0a;
+}
+h2,p {
+    text-align:center;
+    color:#285c0a
+}
+body{
+    background-color: #d65a66;
+}
+ /* {
+    border:solid;
+}
+*/
+.header {
+    background-color: rgb(84, 225, 65);
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.footer {
+    display:flex;
+    justify-content:flex-end;
+}
